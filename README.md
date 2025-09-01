@@ -21,8 +21,8 @@ This repository contains my solution for the admission assessment at Quad Soluti
 ## Project structure in repository:
 
 - Root
-  -- Backend
-  -- Frontend
+- Backend
+- Frontend
 
 ## Project structure visualisation:
 
